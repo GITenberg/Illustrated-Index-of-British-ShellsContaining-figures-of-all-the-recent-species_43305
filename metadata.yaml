@@ -1,0 +1,32 @@
+_repo: Illustrated-Index-of-British-ShellsContaining-figures-of-all-the-recent-species_43305
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sowerby, G. B. (George Brettingham)
+    alias: Sowerby, George Brettingham
+    birthdate: 1812
+    deathdate: 1884
+    gutenberg_agent_id: '42126'
+    url: http://www.gutenberg.org/2009/agents/42126
+    wikipedia: http://en.wikipedia.org/wiki/George_Brettingham_Sowerby_I
+description: ''
+gutenberg_issued: '2013-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43305'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Mollusks -- Great Britain -- Geographical distribution'
+- !lcsh 'Mollusks -- Great Britain -- Identification'
+- !lcsh 'Shells -- Great Britain'
+title: 'Illustrated Index of British Shells
+
+  Containing figures of all the recent species'
+url: http://www.gutenberg.org/ebooks/43305
