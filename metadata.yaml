@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42126
     wikipedia: http://en.wikipedia.org/wiki/George_Brettingham_Sowerby_I
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43305#Illustrated-Index-of-British-ShellsContaining-figures-of-all-the-recent-species
 gutenberg_issued: '2013-07-26'
 gutenberg_type: Text
 identifiers:
